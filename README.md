@@ -4,11 +4,12 @@ Ejemplo:
 
 Cateto = 4
 
+```
 X
 XX
 XXX
 XXXX
-
+```
 
 ```
 Usage:
