@@ -10,7 +10,7 @@ XXX
 XXXX
 
 
-
+```
 Usage:
 
 php app/console
@@ -33,12 +33,13 @@ Triangle
   Triangle:draw   draw triangle
   help            Displays help for a command
   list            Lists commands
+```
 
-
+```
 php app/console help Triangle:draw
 Usage:
  Triangle:draw leg
 
 Arguments:
  leg  Triangle Leg
-
+```
