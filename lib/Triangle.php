@@ -15,7 +15,6 @@ class Triangle
         foreach (range(1, $this->leg) as $i) {
             $out[] = str_repeat('*', $i);
         }
-
         return $out;
     }
 }
