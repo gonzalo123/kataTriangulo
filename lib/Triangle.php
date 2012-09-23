@@ -4,7 +4,7 @@ class Triangle
 {
     private $leg;
 
-    public function __construct($leg = null)
+    public function __construct($leg)
     {
         $this->leg = $leg;
     }
